@@ -1,7 +1,10 @@
 import { MapPin, Calendar, Settings2 } from "lucide-react";
 import { Button } from "../../components/button";
 
+
 export function DestinationAndDateHeader() {
+
+
   return (
     <div className="px-4 h-16 rounded-xl bg-zinc-900 flex items-center justify-between">
       <div className="flex items-center gap-2">
